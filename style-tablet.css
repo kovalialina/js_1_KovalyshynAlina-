@@ -1,0 +1,10 @@
+@media screen and (min-width: 481px) and (max-width: 1279px){
+    #container{
+        width:80%;
+        height: 60vh;
+    }
+    #inputText{
+        width: 200px;
+
+    }
+}
